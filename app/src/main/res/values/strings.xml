@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Info Sungai</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="like_button">Like</string>
+    <string name="dislike_button">Dislike</string>
+    <string name="pengirim">Nama Pengirim</string>
+    <string name="upload_date">Upload date</string>
+    <string name="community">Community</string>
+    <string name="Logout">Logout</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="info_news">Tampilkan Semua Berita</string>
+    <string name="disini">Disini</string>
+</resources>

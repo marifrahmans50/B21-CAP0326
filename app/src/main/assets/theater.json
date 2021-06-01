@@ -1,0 +1,892 @@
+{
+   "results" : [
+      {
+         "nama_sungai": "Sungai Ciliwung (Depok - Manggarai)",
+         "titik_pantau": "1",
+         "lintang_selatan": "-6.346678",
+         "bujur_timur": "106.838256",
+         "Indeks Pencemar": "17.48",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Ciliwung (Depok - Manggarai)",
+         "titik_pantau": "2C",
+         "lintang_selatan": "-6.316256",
+         "bujur_timur": "106.851606",
+         "Indeks Pencemar": "17.75",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Ciliwung (Depok - Manggarai)",
+         "titik_pantau": "2",
+         "lintang_selatan": "-6.302536",
+         "bujur_timur": "106.854361",
+         "Indeks Pencemar": "18.33",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Ciliwung (Depok - Manggarai)",
+         "titik_pantau": "2B",
+         "lintang_selatan": "-6.258125",
+         "bujur_timur": "106.860367",
+         "Indeks Pencemar": "18.1",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Ciliwung (Depok - Manggarai)",
+         "titik_pantau": "2A",
+         "lintang_selatan": "-6.228269",
+         "bujur_timur": "106.864536",
+         "Indeks Pencemar": "18.44",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Ciliwung (Depok - Manggarai)",
+         "titik_pantau": "3",
+         "lintang_selatan": "-6.212717",
+         "bujur_timur": "106.857703",
+         "Indeks Pencemar": "18.44",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Ciliwung (Manggarai - PIK)",
+         "titik_pantau": "3B",
+         "lintang_selatan": "-6.204903",
+         "bujur_timur": "106.834008",
+         "Indeks Pencemar": "17.27",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Ciliwung (Manggarai - PIK)",
+         "titik_pantau": "4",
+         "lintang_selatan": "-6.2009",
+         "bujur_timur": "106.815217",
+         "Indeks Pencemar": "18.1",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Ciliwung (Manggarai - PIK)",
+         "titik_pantau": "5",
+         "lintang_selatan": "-6.198944",
+         "bujur_timur": "106.810822",
+         "Indeks Pencemar": "17.72",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Ciliwung (Manggarai - PIK)",
+         "titik_pantau": "6",
+         "lintang_selatan": "-6.116667",
+         "bujur_timur": "106.773497",
+         "Indeks Pencemar": "17.07",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Ciliwung (Manggarai - Istiqlal)",
+         "titik_pantau": "29E",
+         "lintang_selatan": "-6.201475",
+         "bujur_timur": "106.851094",
+         "Indeks Pencemar": "17.23",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Ciliwung (Manggarai - Istiqlal)",
+         "titik_pantau": "29",
+         "lintang_selatan": "-6.18185",
+         "bujur_timur": "106.836806",
+         "Indeks Pencemar": "18.05",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Ciliwung (Manggarai - Istiqlal)",
+         "titik_pantau": "29B",
+         "lintang_selatan": "-6.171089",
+         "bujur_timur": "106.830008",
+         "Indeks Pencemar": "17.55",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Ciliwung (Istiqlal - Pluit)",
+         "titik_pantau": "29A",
+         "lintang_selatan": "-6.159831",
+         "bujur_timur": "106.819092",
+         "Indeks Pencemar": "17.79",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Ciliwung (Istiqlal - Pluit)",
+         "titik_pantau": "29H",
+         "lintang_selatan": "-6.12765",
+         "bujur_timur": "106.809481",
+         "Indeks Pencemar": "21.08",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Ciliwung (Istiqlal - Pluit)",
+         "titik_pantau": "31",
+         "lintang_selatan": "-6.124964",
+         "bujur_timur": "106.802211",
+         "Indeks Pencemar": "31.45",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Ciliwung (Istiqlal - Pluit)",
+         "titik_pantau": "32",
+         "lintang_selatan": "-6.109027778",
+         "bujur_timur": "106.7968639",
+         "Indeks Pencemar": "19.79",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Ciliwung (Istiqlal - Gn Sahari)",
+         "titik_pantau": "30",
+         "lintang_selatan": "-6.1346306",
+         "bujur_timur": "106.8315583",
+         "Indeks Pencemar": "26.88",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Cipinang",
+         "titik_pantau": "8",
+         "lintang_selatan": "-6.3700222",
+         "bujur_timur": "106.88335",
+         "Indeks Pencemar": "9.7",
+         "kategori": "Cemar Sedang"
+      },
+      {
+         "nama_sungai": "Sungai Cipinang",
+         "titik_pantau": "8F",
+         "lintang_selatan": "-6.3277917",
+         "bujur_timur": "106.8802778",
+         "Indeks Pencemar": "9.38",
+         "kategori": "Cemar Sedang"
+      },
+      {
+         "nama_sungai": "Sungai Cipinang",
+         "titik_pantau": "8C",
+         "lintang_selatan": "-6.3009583",
+         "bujur_timur": "106.87465",
+         "Indeks Pencemar": "11.91",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Cipinang",
+         "titik_pantau": "8A",
+         "lintang_selatan": "-6.2873722",
+         "bujur_timur": "106.8721611",
+         "Indeks Pencemar": "8.54",
+         "kategori": "Cemar Sedang"
+      },
+      {
+         "nama_sungai": "Sungai Cipinang",
+         "titik_pantau": "8G",
+         "lintang_selatan": "-6.2757806",
+         "bujur_timur": "106.8776861",
+         "Indeks Pencemar": "21.77",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Cipinang",
+         "titik_pantau": "8H",
+         "lintang_selatan": "-6.2702278",
+         "bujur_timur": "106.8776444",
+         "Indeks Pencemar": "11.76",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Cipinang",
+         "titik_pantau": "9",
+         "lintang_selatan": "-6.2405111",
+         "bujur_timur": "106.8788528",
+         "Indeks Pencemar": "11.53",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Angke",
+         "titik_pantau": "19",
+         "lintang_selatan": "-6.17585",
+         "bujur_timur": "106.7286831",
+         "Indeks Pencemar": "11.31",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Angke",
+         "titik_pantau": "20B",
+         "lintang_selatan": "-6.1589139",
+         "bujur_timur": "106.7637806",
+         "Indeks Pencemar": "15.1",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Angke",
+         "titik_pantau": "20C",
+         "lintang_selatan": "-6.157816667",
+         "bujur_timur": "106.7676944",
+         "Indeks Pencemar": "23.23",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Sekertaris",
+         "titik_pantau": "20D",
+         "lintang_selatan": "-6.185272222",
+         "bujur_timur": "106.782625",
+         "Indeks Pencemar": "33.02",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Sekertaris",
+         "titik_pantau": "20E",
+         "lintang_selatan": "-6.167386111",
+         "bujur_timur": "106.7853722",
+         "Indeks Pencemar": "26.04",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Sekertaris",
+         "titik_pantau": "20A",
+         "lintang_selatan": "-6.161830556",
+         "bujur_timur": "106.7665556",
+         "Indeks Pencemar": "22.92",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Sepak",
+         "titik_pantau": "43",
+         "lintang_selatan": "-6.27245",
+         "bujur_timur": "106.7711167",
+         "Indeks Pencemar": "21.63",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Sepak",
+         "titik_pantau": "23B",
+         "lintang_selatan": "-6.197472222",
+         "bujur_timur": "106.7461944",
+         "Indeks Pencemar": "23.2",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Sepak",
+         "titik_pantau": "43A",
+         "lintang_selatan": "-6.166405556",
+         "bujur_timur": "106.7477972",
+         "Indeks Pencemar": "22.57",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Mookervart",
+         "titik_pantau": "24",
+         "lintang_selatan": "-6.161277778",
+         "bujur_timur": "106.6832778",
+         "Indeks Pencemar": "25.72",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Mookervart",
+         "titik_pantau": "24D",
+         "lintang_selatan": "-6.159819444",
+         "bujur_timur": "106.694975",
+         "Indeks Pencemar": "18.36",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Mookervart",
+         "titik_pantau": "24C",
+         "lintang_selatan": "-6.156941667",
+         "bujur_timur": "106.7051167",
+         "Indeks Pencemar": "29.15",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Mookervart",
+         "titik_pantau": "24B",
+         "lintang_selatan": "-6.153366667",
+         "bujur_timur": "106.7195139",
+         "Indeks Pencemar": "23.31",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Mookervart",
+         "titik_pantau": "24A",
+         "lintang_selatan": "-6.155305556",
+         "bujur_timur": "106.73095",
+         "Indeks Pencemar": "25.95",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Grogol",
+         "titik_pantau": "25",
+         "lintang_selatan": "-6.311233333",
+         "bujur_timur": "106.7883833",
+         "Indeks Pencemar": "9",
+         "kategori": "Cemar Sedang"
+      },
+      {
+         "nama_sungai": "Sungai Grogol",
+         "titik_pantau": "25A",
+         "lintang_selatan": "-6.2631",
+         "bujur_timur": "106.7852333",
+         "Indeks Pencemar": "9.02",
+         "kategori": "Cemar Sedang"
+      },
+      {
+         "nama_sungai": "Sungai Grogol",
+         "titik_pantau": "25B",
+         "lintang_selatan": "-6.2079",
+         "bujur_timur": "106.79245",
+         "Indeks Pencemar": "29.59",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Grogol",
+         "titik_pantau": "26",
+         "lintang_selatan": "-6.162",
+         "bujur_timur": "106.79005",
+         "Indeks Pencemar": "31.25",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Grogol",
+         "titik_pantau": "27",
+         "lintang_selatan": "-6.125683333",
+         "bujur_timur": "106.7841333",
+         "Indeks Pencemar": "23.49",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Sunter",
+         "titik_pantau": "30",
+         "lintang_selatan": "-6.345191667",
+         "bujur_timur": "106.9171861",
+         "Indeks Pencemar": "19.28",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Sunter",
+         "titik_pantau": "10A",
+         "lintang_selatan": "-6.284311111",
+         "bujur_timur": "106.9087333",
+         "Indeks Pencemar": "19.91",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Sunter",
+         "titik_pantau": "11",
+         "lintang_selatan": "-6.239636111",
+         "bujur_timur": "106.892175",
+         "Indeks Pencemar": "22.32",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Sunter",
+         "titik_pantau": "12",
+         "lintang_selatan": "-6.202794444",
+         "bujur_timur": "106.8975306",
+         "Indeks Pencemar": "18.43",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Sunter",
+         "titik_pantau": "45",
+         "lintang_selatan": "-6.155561111",
+         "bujur_timur": "106.8861167",
+         "Indeks Pencemar": "18.06",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Sunter",
+         "titik_pantau": "13",
+         "lintang_selatan": "-6.118947222",
+         "bujur_timur": "106.8962111",
+         "Indeks Pencemar": "27.13",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Krukut",
+         "titik_pantau": "14",
+         "lintang_selatan": "-6.311125",
+         "bujur_timur": "106.8078",
+         "Indeks Pencemar": "9.49",
+         "kategori": "Cemar Sedang"
+      },
+      {
+         "nama_sungai": "Sungai Krukut",
+         "titik_pantau": "15C",
+         "lintang_selatan": "-6.297488889",
+         "bujur_timur": "106.8053611",
+         "Indeks Pencemar": "8.23",
+         "kategori": "Cemar Sedang"
+      },
+      {
+         "nama_sungai": "Sungai Krukut",
+         "titik_pantau": "15A",
+         "lintang_selatan": "-6.278613889",
+         "bujur_timur": "106.812225",
+         "Indeks Pencemar": "8.86",
+         "kategori": "Cemar Sedang"
+      },
+      {
+         "nama_sungai": "Sungai Krukut",
+         "titik_pantau": "14A",
+         "lintang_selatan": "-6.239033333",
+         "bujur_timur": "106.8177306",
+         "Indeks Pencemar": "10.7",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Krukut",
+         "titik_pantau": "15",
+         "lintang_selatan": "-6.201494444",
+         "bujur_timur": "106.8113083",
+         "Indeks Pencemar": "19.57",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Cengkareng",
+         "titik_pantau": "21",
+         "lintang_selatan": "-6.162555556",
+         "bujur_timur": "106.7480639",
+         "Indeks Pencemar": "18.86",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Cengkareng",
+         "titik_pantau": "22",
+         "lintang_selatan": "-6.112497222",
+         "bujur_timur": "106.7516722",
+         "Indeks Pencemar": "20.56",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Buaran",
+         "titik_pantau": "36",
+         "lintang_selatan": "-6.248197222",
+         "bujur_timur": "106.9210222",
+         "Indeks Pencemar": "24.99",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Buaran",
+         "titik_pantau": "48",
+         "lintang_selatan": "-6.206544444",
+         "bujur_timur": "106.9276611",
+         "Indeks Pencemar": "29.15",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Buaran",
+         "titik_pantau": "37C",
+         "lintang_selatan": "-6.187733333",
+         "bujur_timur": "106.9298694",
+         "Indeks Pencemar": "21.33",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Buaran",
+         "titik_pantau": "40",
+         "lintang_selatan": "-6.186325",
+         "bujur_timur": "106.9225139",
+         "Indeks Pencemar": "18.05",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Petukangan",
+         "titik_pantau": "39",
+         "lintang_selatan": "-6.211461111",
+         "bujur_timur": "106.9118417",
+         "Indeks Pencemar": "25.09",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Jati Keramat",
+         "titik_pantau": "36A",
+         "lintang_selatan": "-6.248469444",
+         "bujur_timur": "106.9326139",
+         "Indeks Pencemar": "21.54",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Jati Keramat",
+         "titik_pantau": "36B",
+         "lintang_selatan": "-6.230630556",
+         "bujur_timur": "106.9261694",
+         "Indeks Pencemar": "18.94",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Kalibaru Barat",
+         "titik_pantau": "7C",
+         "lintang_selatan": "-6.337541667",
+         "bujur_timur": "106.8267278",
+         "Indeks Pencemar": "4.7",
+         "kategori": "Cemar Ringan"
+      },
+      {
+         "nama_sungai": "Sungai Kalibaru Barat",
+         "titik_pantau": "7",
+         "lintang_selatan": "-6.337519444",
+         "bujur_timur": "106.8293861",
+         "Indeks Pencemar": "8.6",
+         "kategori": "Cemar Sedang"
+      },
+      {
+         "nama_sungai": "Sungai Kalibaru Barat",
+         "titik_pantau": "7D",
+         "lintang_selatan": "-6.302330556",
+         "bujur_timur": "106.8366222",
+         "Indeks Pencemar": "17.94",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Kalibaru Barat",
+         "titik_pantau": "7A",
+         "lintang_selatan": "-6.280147222",
+         "bujur_timur": "106.8447278",
+         "Indeks Pencemar": "8.82",
+         "kategori": "Cemar Sedang"
+      },
+      {
+         "nama_sungai": "Sungai Kalibaru Barat",
+         "titik_pantau": "7E",
+         "lintang_selatan": "-6.246194444",
+         "bujur_timur": "106.8427917",
+         "Indeks Pencemar": "8.49",
+         "kategori": "Cemar Sedang"
+      },
+      {
+         "nama_sungai": "Sungai Kalibaru Barat",
+         "titik_pantau": "7B",
+         "lintang_selatan": "-6.211944444",
+         "bujur_timur": "106.8444444",
+         "Indeks Pencemar": "18.42",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Kalibaru Timur",
+         "titik_pantau": "33",
+         "lintang_selatan": "-6.353655556",
+         "bujur_timur": "106.8598972",
+         "Indeks Pencemar": "9.39",
+         "kategori": "Cemar Sedang"
+      },
+      {
+         "nama_sungai": "Sungai Kalibaru Timur",
+         "titik_pantau": "33E",
+         "lintang_selatan": "-6.308372222",
+         "bujur_timur": "106.8636222",
+         "Indeks Pencemar": "8.25",
+         "kategori": "Cemar Sedang"
+      },
+      {
+         "nama_sungai": "Sungai Kalibaru Timur",
+         "titik_pantau": "8B",
+         "lintang_selatan": "-6.289186111",
+         "bujur_timur": "106.8708361",
+         "Indeks Pencemar": "8.48",
+         "kategori": "Cemar Sedang"
+      },
+      {
+         "nama_sungai": "Sungai Kalibaru Timur",
+         "titik_pantau": "33F",
+         "lintang_selatan": "-6.255952778",
+         "bujur_timur": "106.86495",
+         "Indeks Pencemar": "9.04",
+         "kategori": "Cemar Sedang"
+      },
+      {
+         "nama_sungai": "Sungai Kalibaru Timur",
+         "titik_pantau": "33A",
+         "lintang_selatan": "-6.231727778",
+         "bujur_timur": "106.8696944",
+         "Indeks Pencemar": "8.87",
+         "kategori": "Cemar Sedang"
+      },
+      {
+         "nama_sungai": "Sungai Kalibaru Timur",
+         "titik_pantau": "33B",
+         "lintang_selatan": "-6.210294444",
+         "bujur_timur": "106.8614",
+         "Indeks Pencemar": "8.54",
+         "kategori": "Cemar Sedang"
+      },
+      {
+         "nama_sungai": "Sungai Kalibaru Timur",
+         "titik_pantau": "33D",
+         "lintang_selatan": "-6.174883333",
+         "bujur_timur": "106.8521333",
+         "Indeks Pencemar": "12.57",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Kalibaru Timur",
+         "titik_pantau": "33C",
+         "lintang_selatan": "-6.160841667",
+         "bujur_timur": "106.8548444",
+         "Indeks Pencemar": "16.46",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Kalibaru Timur",
+         "titik_pantau": "34",
+         "lintang_selatan": "-6.126563889",
+         "bujur_timur": "106.8541944",
+         "Indeks Pencemar": "16.58",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Kanal Timur",
+         "titik_pantau": "50",
+         "lintang_selatan": "-6.229977778",
+         "bujur_timur": "106.8908611",
+         "Indeks Pencemar": "22.17",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Kanal Timur",
+         "titik_pantau": "52",
+         "lintang_selatan": "-6.225088889",
+         "bujur_timur": "106.9430528",
+         "Indeks Pencemar": "22.1",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Kanal Timur",
+         "titik_pantau": "51",
+         "lintang_selatan": "-6.109213889",
+         "bujur_timur": "106.9694944",
+         "Indeks Pencemar": "20.04",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Cakung",
+         "titik_pantau": "35",
+         "lintang_selatan": "-6.195016667",
+         "bujur_timur": "106.956675",
+         "Indeks Pencemar": "21.67",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Cakung",
+         "titik_pantau": "37B",
+         "lintang_selatan": "-6.188252778",
+         "bujur_timur": "106.9340028",
+         "Indeks Pencemar": "21.51",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Cakung",
+         "titik_pantau": "37",
+         "lintang_selatan": "-6.183186111",
+         "bujur_timur": "106.9287639",
+         "Indeks Pencemar": "21.46",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Cakung",
+         "titik_pantau": "37A",
+         "lintang_selatan": "-6.159175",
+         "bujur_timur": "106.935025",
+         "Indeks Pencemar": "21.9",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Cakung",
+         "titik_pantau": "38",
+         "lintang_selatan": "-6.108044444",
+         "bujur_timur": "106.92285",
+         "Indeks Pencemar": "26.76",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Cideng",
+         "titik_pantau": "28",
+         "lintang_selatan": "-6.240302778",
+         "bujur_timur": "106.8347306",
+         "Indeks Pencemar": "22",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Cideng",
+         "titik_pantau": "28A",
+         "lintang_selatan": "-6.235561111",
+         "bujur_timur": "106.8363944",
+         "Indeks Pencemar": "25.17",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Cideng",
+         "titik_pantau": "28B",
+         "lintang_selatan": "-6.210536111",
+         "bujur_timur": "106.8307167",
+         "Indeks Pencemar": "21.98",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Cideng",
+         "titik_pantau": "15B",
+         "lintang_selatan": "-6.182036111",
+         "bujur_timur": "106.8167917",
+         "Indeks Pencemar": "31.21",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Cideng",
+         "titik_pantau": "29C",
+         "lintang_selatan": "-6.160897222",
+         "bujur_timur": "106.8107278",
+         "Indeks Pencemar": "23.34",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Cideng",
+         "titik_pantau": "29G",
+         "lintang_selatan": "-6.139266667",
+         "bujur_timur": "106.8113722",
+         "Indeks Pencemar": "19",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Cideng",
+         "titik_pantau": "29F",
+         "lintang_selatan": "-6.201388889",
+         "bujur_timur": "106.8411694",
+         "Indeks Pencemar": "31.46",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Mampang",
+         "titik_pantau": "14E",
+         "lintang_selatan": "-6.306766667",
+         "bujur_timur": "106.8168222",
+         "Indeks Pencemar": "14.83",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Mampang",
+         "titik_pantau": "14F",
+         "lintang_selatan": "-6.305211111",
+         "bujur_timur": "106.8165139",
+         "Indeks Pencemar": "8.44",
+         "kategori": "Cemar Sedang"
+      },
+      {
+         "nama_sungai": "Sungai Mampang",
+         "titik_pantau": "14C",
+         "lintang_selatan": "-6.285561111",
+         "bujur_timur": "106.8351944",
+         "Indeks Pencemar": "15.04",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Mampang",
+         "titik_pantau": "14G",
+         "lintang_selatan": "-6.261611111",
+         "bujur_timur": "106.8258889",
+         "Indeks Pencemar": "15.15",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Mampang",
+         "titik_pantau": "14D",
+         "lintang_selatan": "-6.258058333",
+         "bujur_timur": "106.8248111",
+         "Indeks Pencemar": "15.34",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Mampang",
+         "titik_pantau": "14B",
+         "lintang_selatan": "-6.240488889",
+         "bujur_timur": "106.8211583",
+         "Indeks Pencemar": "15.53",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Tarum Barat",
+         "titik_pantau": "17",
+         "lintang_selatan": "-6.249869444",
+         "bujur_timur": "106.9502556",
+         "Indeks Pencemar": "18.24",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Tarum Barat",
+         "titik_pantau": "17A",
+         "lintang_selatan": "-6.243655556",
+         "bujur_timur": "106.8989667",
+         "Indeks Pencemar": "15.4",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Tarum Barat",
+         "titik_pantau": "18",
+         "lintang_selatan": "-6.239977778",
+         "bujur_timur": "106.8805694",
+         "Indeks Pencemar": "15.57",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Kamal",
+         "titik_pantau": "41",
+         "lintang_selatan": "-6.136122222",
+         "bujur_timur": "106.7022444",
+         "Indeks Pencemar": "26.25",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Kamal",
+         "titik_pantau": "41A",
+         "lintang_selatan": "-6.118336111",
+         "bujur_timur": "106.7108556",
+         "Indeks Pencemar": "25.85",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Kamal",
+         "titik_pantau": "42",
+         "lintang_selatan": "-6.098888889",
+         "bujur_timur": "106.7139139",
+         "Indeks Pencemar": "21.81",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Pesanggrahan",
+         "titik_pantau": "23",
+         "lintang_selatan": "-6.290583333",
+         "bujur_timur": "106.76665",
+         "Indeks Pencemar": "16.58",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Pesanggrahan",
+         "titik_pantau": "23A",
+         "lintang_selatan": "-6.254463889",
+         "bujur_timur": "106.7691556",
+         "Indeks Pencemar": "17.06",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Pesanggrahan",
+         "titik_pantau": "49",
+         "lintang_selatan": "-6.208611111",
+         "bujur_timur": "106.7648056",
+         "Indeks Pencemar": "18.62",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Pesanggrahan",
+         "titik_pantau": "49A",
+         "lintang_selatan": "-6.170102778",
+         "bujur_timur": "106.7488944",
+         "Indeks Pencemar": "15.84",
+         "kategori": "Cemar Berat"
+      },
+      {
+         "nama_sungai": "Sungai Blencong",
+         "titik_pantau": "46",
+         "lintang_selatan": "-6.118463889",
+         "bujur_timur": "106.9562389",
+         "Indeks Pencemar": "20.17",
+         "kategori": "Cemar Berat"
+      }
+   ]
+}

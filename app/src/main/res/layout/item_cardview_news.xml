@@ -1,0 +1,83 @@
+<?xml  version="1.0"  encoding="utf-8"?>
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        app:cardCornerRadius="16dp"
+        app:cardBackgroundColor="@color/white">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="110dp">
+
+            <ImageView
+                android:id="@+id/newsImg"
+                android:layout_width="121dp"
+                android:layout_height="82dp"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="16dp"
+                android:scaleType="fitXY"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="ContentDescription"
+                tools:src= "@drawable/sungai" />
+
+            <TextView
+                android:id="@+id/newsName"
+                style="@style/TextAppearance.MaterialComponents.Headline6"
+                android:layout_width="0dp"
+                android:layout_height="27dp"
+                android:layout_marginStart="16dp"
+                android:layout_toEndOf="@id/newsImg"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/newsImg"
+                app:layout_constraintStart_toEndOf="@+id/newsImg"
+                app:layout_constraintTop_toTopOf="@+id/newsImg"
+                app:layout_constraintVertical_bias="0.0"
+                tools:text="Judul Berita" />
+
+            <TextView
+                android:id="@+id/newsDeskripsi"
+                style="@style/TextAppearance.MaterialComponents.Caption"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/newsName"
+                android:layout_toEndOf="@id/newsImg"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="@+id/newsName"
+                app:layout_constraintStart_toStartOf="@+id/newsName"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:text="Movie genre" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="32dp"
+                android:layout_marginBottom="8dp"
+                android:text="Selengkapnya"
+                android:textColor="#52ACCF"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent" />
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_baseline_keyboard_arrow_right_24"
+                app:layout_constraintBottom_toBottomOf="@+id/textView4"
+                app:layout_constraintStart_toEndOf="@+id/textView4"
+                app:layout_constraintTop_toTopOf="@+id/textView4"
+                app:layout_constraintVertical_bias="0.0" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </com.google.android.material.card.MaterialCardView>
+</LinearLayout>

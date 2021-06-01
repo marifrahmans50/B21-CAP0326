@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141089799044",
+    "project_id": "infosungai",
+    "storage_bucket": "infosungai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141089799044:android:09a937483041cb058c7bd1",
+        "android_client_info": {
+          "package_name": "com.example.infosungai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141089799044-dopttfovn4cbvu8sdrecmvu0bcftilgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQTf9ysaPLhpkPxycsv5w88xJg9CG_NIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141089799044-dopttfovn4cbvu8sdrecmvu0bcftilgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
