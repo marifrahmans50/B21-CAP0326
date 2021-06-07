@@ -34,11 +34,11 @@
             <TextView
                 android:id="@+id/newsName"
                 style="@style/TextAppearance.MaterialComponents.Headline6"
-                android:layout_width="0dp"
-                android:layout_height="27dp"
-                android:layout_marginStart="16dp"
+                android:layout_width="215dp"
+                android:layout_height="35dp"
+                android:layout_marginStart="10dp"
                 android:layout_toEndOf="@id/newsImg"
-                android:textStyle="bold"
+                android:textSize="15dp"
                 app:layout_constraintBottom_toBottomOf="@+id/newsImg"
                 app:layout_constraintStart_toEndOf="@+id/newsImg"
                 app:layout_constraintTop_toTopOf="@+id/newsImg"
@@ -48,14 +48,17 @@
             <TextView
                 android:id="@+id/newsDeskripsi"
                 style="@style/TextAppearance.MaterialComponents.Caption"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
+                android:layout_width="213dp"
+                android:layout_height="34dp"
                 android:layout_below="@id/newsName"
                 android:layout_toEndOf="@id/newsImg"
+                android:textSize="10dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="@+id/newsName"
+                app:layout_constraintHorizontal_bias="0.0"
                 app:layout_constraintStart_toStartOf="@+id/newsName"
                 app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.644"
                 tools:text="Movie genre" />
 
             <TextView

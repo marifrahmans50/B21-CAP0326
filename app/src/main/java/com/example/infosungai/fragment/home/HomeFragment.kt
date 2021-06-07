@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProviders
 import com.example.infosungai.*
@@ -41,43 +42,14 @@ class HomeFragment : Fragment() {
         view.tv_news.setOnClickListener{
             startActivity(Intent(context, NewsActivity::class.java))
         }
+        view.tv_selengkapnya.setOnClickListener{
+            startActivity(Intent(context, NewsActivity::class.java))
+        }
+        view.img_next.setOnClickListener{
+            startActivity(Intent(context, NewsActivity::class.java))
+        }
 
         return view
 
     }
-    /*
-    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        super.onViewCreated(view, savedInstanceState)
-        // RecyclerView node initialized here
-        rv_home.apply {
-            // set a LinearLayoutManager to handle Android
-            // RecyclerView behavior
-            layoutManager = LinearLayoutManager(activity)
-            // set the custom adapter to the RecyclerView
-            adapter = NewsAdapter(NewsData)
-        }
-    }
-    fun observeData(){
-        //Adding Shimmer
-        //shimmer_view_container.startShimmer()
-        viewModel.fetchUserData().observe(activity, Observer {
-            //shimmer_view_container.stopShimmer()
-            //shimmer_view_container.visibility = View.GONE
-            adapter.setListData(it)
-            adapter.notifyDataSetChanged()
-        })
-    }
-
-
-
-    override fun onItemClick(data: NewsData) {
-        //Toast.makeText(this, "$name has just clicked", Toast.LENGTH_SHORT).show()
-        val intent = Intent(this, DetailNews::class.java)
-        intent.putExtra("name", data.name)
-        intent.putExtra("description", data.description)
-        intent.putExtra("imageUrl", data.imageUrl)
-        startActivity(intent)
-    }
-
-     */
 }

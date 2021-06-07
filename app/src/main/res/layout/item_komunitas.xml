@@ -20,12 +20,12 @@
             android:layout_width="55dp"
             android:layout_height="59dp"
             android:layout_marginStart="32dp"
-            android:layout_marginBottom="8dp"
+            android:layout_marginBottom="16dp"
+            android:src="@android:color/darker_gray"
             app:layout_constraintBottom_toTopOf="@+id/img_post"
             app:layout_constraintEnd_toEndOf="@+id/img_post"
-            app:layout_constraintHorizontal_bias="0.114"
-            app:layout_constraintStart_toStartOf="@+id/img_post"
-            tools:src="@android:color/darker_gray" />
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="@+id/img_post" />
 
         <TextView
         android:id="@+id/tv_Pengirim"
@@ -70,6 +70,7 @@
             android:id="@+id/tv_Comment"
             android:layout_width="249dp"
             android:layout_height="91dp"
+            android:layout_marginStart="16dp"
             android:layout_marginTop="8dp"
             android:text="@string/upload_date"
             android:textSize="15dp"

@@ -1,10 +1,10 @@
-package com.example.infosungai
+package com.example.infosungai.data
 
 
 import com.google.gson.annotations.SerializedName
 
 data class MapValue(
-    @SerializedName("results")
+        @SerializedName("results")
     var results: List<Result>,
 )
 

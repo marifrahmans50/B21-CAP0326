@@ -45,9 +45,7 @@ class NewsAdapter(private val context: Context, private val onClickListenner : O
     override fun onBindViewHolder(holder: NewsViewHolder, position: Int) {
 
         when (holder){
-
             is NewsViewHolder -> holder.bindView(dataList[position], position)
-
             else -> throw IllegalArgumentException("***")
         }
     }
@@ -55,14 +53,12 @@ class NewsAdapter(private val context: Context, private val onClickListenner : O
     inner class NewsViewHolder(itemView : View) : RecyclerView.ViewHolder(itemView){
 
         fun bindView(user: NewsData, position: Int){
-
             itemView.setOnClickListener { onClickListenner.onItemClick(user) }
 
             Glide.with(context).load(user.imageUrl).into(itemView.newsImg)
-            itemView.newsName.text       = user.name
+            itemView.newsName.text = user.name
             itemView.newsDeskripsi.text = user.description
         }
     }
-
 
 }

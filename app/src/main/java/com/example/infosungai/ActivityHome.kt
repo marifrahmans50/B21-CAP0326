@@ -10,7 +10,6 @@ import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
-import com.example.infosungai.ui.camera.CameraActivity
 
 class ActivityHome : AppCompatActivity() {
 
@@ -27,18 +26,6 @@ class ActivityHome : AppCompatActivity() {
         setupActionBarWithNavController(navController, appBarConfiguration)
         navView.setupWithNavController(navController)
     }
-    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
-        val inflater = menuInflater
-        inflater.inflate(R.menu.menu, menu)
-        return super.onCreateOptionsMenu(menu)
-    }
 
-    override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        if (item.itemId == R.id.favorite) {
-            val intent = Intent(this, CameraActivity::class.java)
-            startActivity(intent)
-        }
-        return super.onOptionsItemSelected(item)
-    }
 
 }

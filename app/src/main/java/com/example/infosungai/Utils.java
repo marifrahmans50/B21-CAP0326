@@ -12,7 +12,7 @@ public  class Utils {
     public static   String getAssetJsonData(Context context) {
         String json = null;
         try {
-            InputStream is = context.getAssets().open("theater.json");
+            InputStream is = context.getAssets().open("datasungai.json");
             int size = is.available();
             byte[] buffer = new byte[size];
             is.read(buffer);

@@ -18,10 +18,9 @@
             android:textSize="30dp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.233"
+            app:layout_constraintHorizontal_bias="0.171"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
-
 
         <ImageButton
             android:id="@+id/btn_location"
@@ -56,6 +55,7 @@
             android:textColor="@color/black"
             android:textSize="25dp"
             app:layout_constraintEnd_toEndOf="@+id/btn_location"
+            app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="@+id/btn_location"
             app:layout_constraintTop_toBottomOf="@+id/btn_location" />
 
@@ -84,17 +84,100 @@
             app:layout_constraintStart_toEndOf="@+id/textnews"
             app:layout_constraintTop_toTopOf="@+id/textnews" />
 
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/materialCardView"
+            android:layout_width="387dp"
+            android:layout_height="119dp"
+            android:layout_margin="10dp"
+            android:layout_marginTop="204dp"
+            app:cardBackgroundColor="@color/white"
+            app:cardCornerRadius="16dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textnews">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="110dp">
+
+                        <ImageView
+                            android:id="@+id/newsImg"
+                            android:layout_width="135dp"
+                            android:layout_height="93dp"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginStart="8dp"
+                            android:scaleType="fitXY"
+                            android:src="@drawable/sungai"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintHorizontal_bias="0.057"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toTopOf="parent" />
+
+                        <TextView
+                            android:id="@+id/newsName"
+                            android:layout_width="211dp"
+                            android:layout_height="26dp"
+                            android:layout_marginStart="10dp"
+                            android:layout_toEndOf="@id/newsImg"
+                            android:text="@string/judul_news"
+                            android:textColor="@color/black"
+                            android:textSize="18dp"
+                            app:layout_constraintBottom_toBottomOf="@+id/newsImg"
+                            app:layout_constraintStart_toEndOf="@+id/newsImg"
+                            app:layout_constraintTop_toTopOf="@+id/newsImg"
+                            app:layout_constraintVertical_bias="0.0" />
+
+                        <TextView
+                            android:id="@+id/newsDeskripsi"
+                            android:layout_width="213dp"
+                            android:layout_height="34dp"
+                            android:layout_below="@id/newsName"
+                            android:layout_toEndOf="@id/newsImg"
+                            android:text="@string/deskripsi_news"
+                            android:textSize="15dp"
+                            app:layout_constraintEnd_toEndOf="@+id/newsName"
+                            app:layout_constraintHorizontal_bias="0.0"
+                            app:layout_constraintStart_toStartOf="@+id/newsName"
+                            app:layout_constraintTop_toBottomOf="@+id/newsName" />
+
+
+                        <TextView
+                            android:id="@+id/tv_selengkapnya"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="84dp"
+                            android:layout_marginTop="32dp"
+                            android:text="Selengkapnya"
+                            android:textColor="#52ACCF"
+                            app:layout_constraintStart_toStartOf="@+id/newsDeskripsi"
+                            app:layout_constraintTop_toBottomOf="@+id/newsDeskripsi" />
+
+                        <ImageView
+                            android:id="@+id/img_next"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/ic_baseline_keyboard_arrow_right_24"
+                            app:layout_constraintBottom_toBottomOf="@+id/tv_selengkapnya"
+                            app:layout_constraintEnd_toEndOf="@+id/newsDeskripsi"
+                            app:layout_constraintHorizontal_bias="0.0"
+                            app:layout_constraintStart_toEndOf="@+id/tv_selengkapnya"
+                            app:layout_constraintTop_toTopOf="@+id/tv_selengkapnya"
+                            app:layout_constraintVertical_bias="0.0" />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+        </com.google.android.material.card.MaterialCardView>
+
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/rv_home"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_marginTop="32dp"
             app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/textView3"
-            tools:listitem="@layout/item_cardview_news" />
-
+            app:layout_constraintTop_toBottomOf="@+id/materialCardView" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -114,6 +114,7 @@ dependencies {
     implementation 'androidx.multidex:multidex:2.0.1'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    implementation 'com.synnapps:carouselview:0.1.4'
 
 
 }

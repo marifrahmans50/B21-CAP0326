@@ -6,6 +6,8 @@ import android.widget.Toast
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.example.infosungai.data.MapValue
+import com.example.infosungai.data.Result
 
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.GoogleMap
@@ -57,16 +59,6 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback, GoogleMap.OnInfoWi
 
     override fun onMapReady(googleMap: GoogleMap) {
         mMap = googleMap
-        /*mMap.setOnMarkerClickListener { marker ->
-            if (marker.isInfoWindowShown) {
-                marker.hideInfoWindow()
-            } else {
-                marker.showInfoWindow()
-            }
-            true
-        }
-
-         */
 
         for (i in 0 until arrList1.size) {
             val place =
@@ -87,47 +79,11 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback, GoogleMap.OnInfoWi
         mMap.setInfoWindowAdapter(CustomInfoWindow(this))
     }
     override fun onInfoWindowClick(marker: Marker) {
-        /*
-            val moveActivity = Intent(this, DetailActivity::class.java)
-            //moveActivity.putExtra(HalamanDetail.EXTRA_PERSON, data)
-            intent.putExtra("name", data.name)
-            intent.putExtra("description", data.rating)
-            intent.putExtra("imageUrl", data.scope)
-            startActivity(moveActivity)
-
-
-         */
-
-
-        //val moveActivity = Intent(this@MapsActivity, DetailActivity::class.java)
-        //moveActivity.putExtra(DetailActivity.EXTRA_PERSON, marker)
-        //intent.putExtra("name", marker)
-        // intent.putExtra("description", arrList1.get(i).rating)
-        // intent.putExtra("imageUrl", arrList1.get(i).scope)
-
-
-        //startActivity(moveActivity)
-
-
-
-
-
-
-        /*val intent = Intent(this, DetailActivity::class.java)
-        startActivity(intent)
-
-         */
-
 
         Toast.makeText(
                 this, "Info window clicked",
                 Toast.LENGTH_SHORT
         ).show()
-
-
-
-
-
 
     }
 

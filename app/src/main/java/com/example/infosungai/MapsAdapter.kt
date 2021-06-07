@@ -6,9 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import kotlin.Result
 
-class MapsAdapter(var context: Context, var arrayList: ArrayList<com.example.infosungai.Result>): RecyclerView.Adapter<MapsAdapter.ItemHolder>() {
+class MapsAdapter(var context: Context, var arrayList: ArrayList<com.example.infosungai.data.Result>): RecyclerView.Adapter<MapsAdapter.ItemHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ItemHolder {
         val itemHolder=
@@ -23,22 +22,19 @@ class MapsAdapter(var context: Context, var arrayList: ArrayList<com.example.inf
     }
 
     override fun onBindViewHolder(holder: ItemHolder, position: Int) {
-        var gridListDetails: com.example.infosungai.Result =arrayList.get(position)
+        var gridListDetails: com.example.infosungai.data.Result =arrayList.get(position)
 
-        //val imageUrl = gridListDetails.icon
-        //Picasso.get().load(imageUrl).into(holder.icon)
-        holder.title.setText(gridListDetails.nama_sungai)
-        holder.vcity.setText(gridListDetails.indeks_pencemar)
-        holder.rating.setText(gridListDetails.kategori)
+        holder.namasungai.setText(gridListDetails.nama_sungai)
+        holder.indeks.setText(gridListDetails.indeks_pencemar)
+        holder.kategori.setText(gridListDetails.kategori)
 
     }
 
     class ItemHolder(itemview: View): RecyclerView.ViewHolder(itemview)
     {
-        //var icon=itemview.findViewById<ImageView>(R.id.img_shop_image)
-        var title=itemview.findViewById<TextView>(R.id.txt_Name)
-        var vcity=itemview.findViewById<TextView>(R.id.txt_vcity)
-        var rating=itemview.findViewById<TextView>(R.id.txt_rating)
+        var namasungai=itemview.findViewById<TextView>(R.id.tv_namasungai)
+        var indeks=itemview.findViewById<TextView>(R.id.tv_indeks)
+        var kategori=itemview.findViewById<TextView>(R.id.tv_kategori)
     }
 }
 

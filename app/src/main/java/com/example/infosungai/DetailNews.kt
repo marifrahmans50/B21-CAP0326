@@ -13,11 +13,11 @@ class DetailNews : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_detail_news)
 
-        val namamakanan1 = findViewById<TextView>(R.id.tv_news_name)
-        val deskripsi1 = findViewById<TextView>(R.id.tv_news_description)
+        val namanews1 = findViewById<TextView>(R.id.tv_news_name)
+        val deskripsinews1 = findViewById<TextView>(R.id.tv_news_description)
 
-        val namamakanan2 = intent.extras?.getString("name")
-        val deskripsi2 = intent.extras?.getString("description")
+        val namanews2 = intent.extras?.getString("name")
+        val deskripsinews2 = intent.extras?.getString("description")
 
         /*Glide
             .with(this)
@@ -28,7 +28,7 @@ class DetailNews : AppCompatActivity() {
          */
         Glide.with(this).load(intent.getStringExtra("imageUrl")).into(img_news)
 
-        namamakanan1.text = namamakanan2.toString()
-        deskripsi1.text = deskripsi2.toString()
+        namanews1.text = namanews2.toString()
+        deskripsinews1.text = deskripsinews2.toString()
     }
 }
