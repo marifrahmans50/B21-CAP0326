@@ -23,7 +23,7 @@ app/src/res/values/google_maps_api.xml
 ![asdasdas](https://user-images.githubusercontent.com/72433491/121366308-92fe0b80-c963-11eb-89fb-132e9ebfba8b.JPG)
 ![fgxfg](https://user-images.githubusercontent.com/72433491/121366312-942f3880-c963-11eb-8a48-734694e7cf6e.JPG)
 ![gxfbxfb](https://user-images.githubusercontent.com/72433491/121366313-94c7cf00-c963-11eb-8eb6-cd77ef650fb6.JPG)
-![Screenshot_1623245264](https://user-images.githubusercontent.com/72433491/121365377-cc824700-c962-11eb-89ac-5eeac2e5ad8f.JPG)
+![Screenshot_1623245264](https://user-images.githubusercontent.com/72433491/121365377-cc824700-c962-11eb-89ac-5eeac2e5ad8f.png)
 ![Screenshot_1623245268](https://user-images.githubusercontent.com/72433491/121365390-cee4a100-c962-11eb-86f6-3d74261dcb67.png)
 ![Screenshot_1623245293](https://user-images.githubusercontent.com/72433491/121365395-d1df9180-c962-11eb-829c-67794e717e10.png)
 ![Screenshot_1623245515](https://user-images.githubusercontent.com/72433491/121365406-d441eb80-c962-11eb-9519-2379c6872929.png)
