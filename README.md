@@ -10,7 +10,7 @@ Usage
 - Please put your maps API into string google_map_api in :
 app/src/res/values/google_maps_api.xml
 
-# How to contribute to a Git repository or clone a repository using Android Studio
+How to contribute to a Git repository or clone a repository using Android Studio
 How to contribute to a Git repository or clone a repository using Android Studio.
 - Select the “Clone or download” button and copy the GitHub repository URL.
 - Select "File" menu, "New", and then "Project Version Control".
