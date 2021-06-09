@@ -1,8 +1,7 @@
 # B21-CAP0326
 Info Sungai Repository for Capstone Project
 
-Requirement![logogithub](https://user-images.githubusercontent.com/72433491/121362851-9f349980-c960-11eb-8580-743423a6c329.png)
-
+Requirement
 - Firebase API
 - Maps SDK for Android API
 
