@@ -5,11 +5,13 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProviders
 import com.example.infosungai.*
 import com.example.infosungai.adapter.NewsAdapter
+import com.example.infosungai.ui.community.CommunityActivity
+import com.example.infosungai.ui.imageclassification.ImageClassificationActivity
+import com.example.infosungai.ui.maps.MapsActivity
 import com.example.infosungai.ui.news.NewsActivity
 import com.example.infosungai.ui.news.NewsViewModel
 import kotlinx.android.synthetic.main.fragment_home.view.*
@@ -34,10 +36,14 @@ class HomeFragment : Fragment() {
          */
 
         view.btn_community.setOnClickListener{
-            startActivity(Intent(context,CommunityActivity::class.java))
+            startActivity(Intent(context,
+                CommunityActivity::class.java))
         }
         view.btn_location.setOnClickListener{
             startActivity(Intent(context, MapsActivity::class.java))
+        }
+        view.btn_classifier.setOnClickListener{
+            startActivity(Intent(context, ImageClassificationActivity::class.java))
         }
         view.tv_news.setOnClickListener{
             startActivity(Intent(context, NewsActivity::class.java))

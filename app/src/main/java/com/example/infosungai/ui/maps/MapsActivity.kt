@@ -1,4 +1,4 @@
-package com.example.infosungai
+package com.example.infosungai.ui.maps
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -6,6 +6,10 @@ import android.widget.Toast
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.example.infosungai.CustomInfoWindow
+import com.example.infosungai.adapter.MapsAdapter
+import com.example.infosungai.R
+import com.example.infosungai.Utils
 import com.example.infosungai.data.MapValue
 import com.example.infosungai.data.Result
 
@@ -34,7 +38,10 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback, GoogleMap.OnInfoWi
         recyclerView = findViewById(R.id.recycler_view_home)
 
         var gson = Gson()
-        var theater: MapValue = gson.fromJson(Utils.getAssetJsonData(this), MapValue::class.java)
+        var theater: MapValue = gson.fromJson(
+            Utils.getAssetJsonData(
+                this
+            ), MapValue::class.java)
         arrList.add(theater)
 
         for (i in 0 until arrList.get(0).results.size) {
@@ -45,7 +52,11 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback, GoogleMap.OnInfoWi
                 GridLayoutManager(applicationContext, 1, LinearLayoutManager.VERTICAL, false)
         recyclerView?.layoutManager = gridLayoutManager
         recyclerView?.setHasFixedSize(true)
-        gridListAdaptor = MapsAdapter(applicationContext, arrList1!!)
+        gridListAdaptor =
+            MapsAdapter(
+                applicationContext,
+                arrList1!!
+            )
         recyclerView?.adapter = gridListAdaptor
 
         val mapFragment = supportFragmentManager

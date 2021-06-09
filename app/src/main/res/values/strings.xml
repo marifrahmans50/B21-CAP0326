@@ -17,4 +17,6 @@
     <string name="disini">Disini</string>
     <string name="judul_news">Sungai di Jakarta</string>
     <string name="deskripsi_news">Kualitas sungai dijakarta saat ini</string>
+    <string name="title_settings">Settings</string>
+    <string name="garbage_classification">Garbage Classification</string>
 </resources>

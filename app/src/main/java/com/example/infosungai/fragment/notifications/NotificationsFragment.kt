@@ -21,11 +21,8 @@ class NotificationsFragment : Fragment() {
             container: ViewGroup?,
             savedInstanceState: Bundle?
     ): View? {
-        //notificationsViewModel = ViewModelProvider(this).get(NotificationsViewModel::class.java)
         val view = inflater.inflate(R.layout.fragment_notifications, container, false)
-        //notificationsViewModel.text.observe(viewLifecycleOwner, Observer {})
-        auth = FirebaseAuth.getInstance()
-
+                auth = FirebaseAuth.getInstance()
         view.btn_logout.setOnClickListener{
             auth.signOut()
             startActivity(Intent(context, LoginActivity::class.java))
