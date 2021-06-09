@@ -2,14 +2,13 @@
 Info Sungai Repository for Capstone Project
 
 Requirement
-- Firebase firestore
+- Firebase API
 - Maps SDK for Android API
 
 Usage
 - Please put your firestore google-services.json into app directory
 - Please put your maps API into string google_map_api in :
-app/src/debug/res/values/google_maps_api.xml
-app/src/release/res/values/google_maps_api.xml
+app/src/res/values/google_maps_api.xml
 
 How to contribute to a Git repository or clone a repository using Android Studio.
 - Select the “Clone or download” button and copy the GitHub repository URL.
