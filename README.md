@@ -1,7 +1,8 @@
 # B21-CAP0326
 Info Sungai Repository for Capstone Project
 
-Requirement
+Requirement![logogithub](https://user-images.githubusercontent.com/72433491/121362851-9f349980-c960-11eb-8580-743423a6c329.png)
+
 - Firebase API
 - Maps SDK for Android API
 
@@ -11,7 +12,6 @@ Usage
 app/src/res/values/google_maps_api.xml
 
 How to contribute to a Git repository or clone a repository using Android Studio
-How to contribute to a Git repository or clone a repository using Android Studio.
 - Select the “Clone or download” button and copy the GitHub repository URL.
 - Select "File" menu, "New", and then "Project Version Control".
 - Paste the GitHub repository URL into URL column and select the “Clone” button.
