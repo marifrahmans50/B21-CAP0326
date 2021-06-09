@@ -1,5 +1,5 @@
 # B21-CAP0326
-## Info Sungai Repository for Capstone Project
+### Info Sungai Repository for Capstone Project
 
 ### Requirement
 - Firebase API
