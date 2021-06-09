@@ -1,15 +1,13 @@
-package com.example.infosungai
+package com.example.infosungai.ui.community
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.Menu
-import android.view.MenuItem
 import android.view.View
-import android.widget.Button
-import android.widget.ImageButton
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.example.infosungai.PostActivity
+import com.example.infosungai.R
 import com.example.infosungai.adapter.RecyclerAdapter
 import com.example.infosungai.databinding.ActivityCommunityBinding
 import com.google.android.material.floatingactionbutton.FloatingActionButton
@@ -17,7 +15,6 @@ import com.google.firebase.Timestamp
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.firestore.Query
-import kotlinx.android.synthetic.main.fragment_dashboard.*
 
 class CommunityActivity : AppCompatActivity(), View.OnClickListener {
 

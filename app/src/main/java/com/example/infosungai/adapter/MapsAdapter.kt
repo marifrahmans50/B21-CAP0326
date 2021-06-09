@@ -1,4 +1,4 @@
-package com.example.infosungai
+package com.example.infosungai.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -6,6 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.example.infosungai.R
 
 class MapsAdapter(var context: Context, var arrayList: ArrayList<com.example.infosungai.data.Result>): RecyclerView.Adapter<MapsAdapter.ItemHolder>() {
 

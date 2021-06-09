@@ -3,14 +3,10 @@ package com.example.infosungai.ui.news
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
-import android.widget.ProgressBar
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.infosungai.DetailNews
-import com.example.infosungai.R
 import com.example.infosungai.adapter.NewsAdapter
 import com.example.infosungai.data.NewsData
 import com.example.infosungai.databinding.ActivityNewsBinding

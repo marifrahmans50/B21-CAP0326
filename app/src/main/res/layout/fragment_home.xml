@@ -43,8 +43,10 @@
             android:src="@drawable/icon_komunitas"
             app:layout_constraintBottom_toBottomOf="@+id/btn_location"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="1.0"
             app:layout_constraintStart_toEndOf="@+id/btn_location"
-            app:layout_constraintTop_toTopOf="@+id/btn_location" />
+            app:layout_constraintTop_toTopOf="@+id/btn_location"
+            app:layout_constraintVertical_bias="1.0" />
 
         <TextView
             android:id="@+id/textView3"
@@ -78,6 +80,7 @@
             android:layout_marginStart="8dp"
             android:text="@string/disini"
             android:textColor="@color/black"
+            android:backgroundTint="@color/white"
             android:textSize="18dp"
             android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="@+id/textnews"
@@ -168,6 +171,19 @@
 
                 </androidx.constraintlayout.widget.ConstraintLayout>
         </com.google.android.material.card.MaterialCardView>
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/btn_classifier"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end|bottom"
+            android:layout_marginEnd="28dp"
+            android:layout_marginBottom="24dp"
+            android:backgroundTint="@color/white"
+            android:contentDescription="@string/like_button"
+            android:src="@drawable/ic_baseline_photo_camera_24"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/rv_home"
